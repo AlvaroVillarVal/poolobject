@@ -1,7 +1,9 @@
 *.class
-
+.project
 # Package Files #
 *.jar
 *.war
 *.ear
 /bin
+.exec
+jacoco.exec
