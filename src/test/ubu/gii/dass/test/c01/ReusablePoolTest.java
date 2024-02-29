@@ -9,8 +9,13 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import ubu.gii.dass.c01.NotFreeInstanceException;
+import ubu.gii.dass.c01.Reusable;
+import ubu.gii.dass.c01.ReusablePool;
+
 /**
- * @author alumno
+ * @author Alvaro Villa Val y Jorge Vara Rodriguez
+ * 			
  *
  */
 public class ReusablePoolTest {
@@ -34,7 +39,9 @@ public class ReusablePoolTest {
 	 */
 	@Test
 	public void testGetInstance() {
-		//fail("Not yet implemented");
+		ReusablePool pool1 = ReusablePool.getInstance();
+        ReusablePool pool2 = ReusablePool.getInstance();
+        assertEquals(pool1, pool2);
 	}
 
 	/**
@@ -42,7 +49,15 @@ public class ReusablePoolTest {
 	 */
 	@Test
 	public void testAcquireReusable() {
-		//fail("Not yet implemented");
+		ReusablePool pool = ReusablePool.getInstance();
+		try {
+			Reusable reusable = pool.acquireReusable();
+			assertNotNull(reusable);
+		} catch (NotFreeInstanceException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+				
 	}
 
 	/**
@@ -50,7 +65,7 @@ public class ReusablePoolTest {
 	 */
 	@Test
 	public void testReleaseReusable() {
-		//fail("Not yet implemented");
+		fail("Not yet implemented");
 	}
 
 }
