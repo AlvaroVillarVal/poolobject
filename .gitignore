@@ -6,4 +6,8 @@
 *.ear
 /bin
 .exec
+<<<<<<< Upstream, based on branch 'master' of https://github.com/AlvaroVillarVal/poolobject.git
 jacoco.exec
+=======
+
+>>>>>>> 7a674f0 Updated gitignored
