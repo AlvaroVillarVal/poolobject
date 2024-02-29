@@ -1,5 +1,8 @@
 poolobject
 ==========
+[![Java CI build](https://github.com/AlvaroVillarVal/poolobject/actions/workflows/ci_jdk11_build.yml/badge.svg)](https://github.com/AlvaroVillarVal/poolobject/actions/workflows/ci_jdk11_build.yml) [![Java CI build, test and codecov](https://github.com/AlvaroVillarVal/poolobject/actions/workflows/ci_jdk1.8_build_test.yml/badge.svg)](https://github.com/AlvaroVillarVal/poolobject/actions/workflows/ci_jdk1.8_build_test.yml)
+
+
 
 Java code example of creational design pattern pool object
 
