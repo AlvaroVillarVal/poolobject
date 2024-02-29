@@ -15,7 +15,7 @@ public class Client{
 	  pool = ReusablePool.getInstance();
 	  r1 = pool.acquireReusable();
 	  r2 = pool.acquireReusable();
-	  hello=10
+	  hello=9
 	 
 	  logger.info(r1.util());
 	  logger.info(r2.util());
