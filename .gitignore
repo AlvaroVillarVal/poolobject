@@ -7,7 +7,11 @@
 /bin
 .exec
 <<<<<<< Upstream, based on branch 'master' of https://github.com/AlvaroVillarVal/poolobject.git
+<<<<<<< Upstream, based on branch 'master' of https://github.com/AlvaroVillarVal/poolobject.git
 jacoco.exec
 =======
 
 >>>>>>> 7a674f0 Updated gitignored
+=======
+jacoco.exec
+>>>>>>> 8c82a22 Update gitignore
