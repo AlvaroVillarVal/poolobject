@@ -39,18 +39,18 @@ Los pasos para gestionar el procesos son los siguientes:
     producto va mejorando con las sucesivas integraciones
 
 ## Preguntas
-###### ◦ ¿Se ha realizado trabajo en equipo?
+#### ◦ ¿Se ha realizado trabajo en equipo?
     El trabajo se ha realizado por los estudiantes Jorge Vara y Álvaro Villar el cual se puede ver reflejado en los comits.
   
-###### ◦ ¿Tiene calidad el conjunto de pruebas disponibles?
+#### ◦ ¿Tiene calidad el conjunto de pruebas disponibles?
   Las pruebas comprueban de manera satisfactoria que el codigo funciona correctamente por lo cual podemos determinar que las pruebas disponibles tienen la calidad requerida
 
-###### ◦ ¿Cuál es el esfuerzo invertido en realizar la actividad?
+#### ◦ ¿Cuál es el esfuerzo invertido en realizar la actividad?
   Se ha dedicado 6 horas para realizar toda la actividad, esto incluye 4 horas dedicadas en las clases practicas y dos horas dedicadas fuera de ellas. En estas horas hemos creado el proyecto, entendido los           conceptos y solucionado los problemas que fueron surgiendo.
 
-###### ◦ ¿Cuál es el número de fallos encontrados en el código original?
+#### ◦ ¿Cuál es el número de fallos encontrados en el código original?
 
-###### ◦ ¿El proceso de integración continua realizado ha sido de calidad?
+#### ◦ ¿El proceso de integración continua realizado ha sido de calidad?
 
 Java code example of creational design pattern pool object
 
