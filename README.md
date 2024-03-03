@@ -46,16 +46,15 @@ Los pasos para gestionar el procesos son los siguientes:
   Las pruebas comprueban de manera satisfactoria que el codigo funciona correctamente por lo cual podemos determinar que las pruebas disponibles tienen la calidad requerida
 
 #### ◦ ¿Cuál es el esfuerzo invertido en realizar la actividad?
-  Se ha dedicado 6 horas para realizar toda la actividad, esto incluye 4 horas dedicadas en las clases practicas y dos horas dedicadas fuera de ellas. En estas horas hemos creado el proyecto, entendido los           conceptos y solucionado los problemas que fueron surgiendo.
+  Se ha dedicado 6 horas para realizar toda la actividad, esto incluye 4 horas dedicadas en las clases practicas y dos horas dedicadas fuera de ellas. En estas horas hemos creado el proyecto, entendido los conceptos y solucionado los problemas que fueron surgiendo.
 
 #### ◦ ¿Cuál es el número de fallos encontrados en el código original?
   En el codigo original habia 3 errores en la parte de los test de la clase ReusablePool, en concreto en los que testeaban los metodos "getInstance, acquireReusable y releaseReusable"
 
 #### ◦ ¿El proceso de integración continua realizado ha sido de calidad?
   Si, los workflows han sido configurados y se han ejecutados correctamente, pasando exitosamente tanto la construccion del proyecto como las pruebas unitarias
-
-Java code example of creational design pattern pool object
-
+  <img src="https://github.com/AlvaroVillarVal/poolobject/blob/master/img/actions.png">
+  
 
 Authors:
 
