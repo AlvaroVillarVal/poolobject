@@ -62,7 +62,7 @@ public class ReusablePoolTest {
 	}
 
 	/**
-	 * Test method for {@link ubu.gii.dass.c01.ReusablePool#releaseReusable(ubu.gii.dass.c01.Reusable)}. 
+	 * Test method for {@link ubu.gii.dass.c01.ReusablePool#releaseReusable(ubu.gii.dass.c01.Reusable)}.
 	 */
 	@Test
 	public void testReleaseReusable() {
