@@ -40,7 +40,9 @@ Los pasos para gestionar el procesos son los siguientes:
 
 ## Preguntas
 #### ◦ ¿Se ha realizado trabajo en equipo?
-   El trabajo se ha realizado por los estudiantes Jorge Vara y Álvaro Villar el cual se puede ver reflejado en los comits.
+   El trabajo se ha realizado por los estudiantes Jorge Vara y Álvaro Villar el cual se puede ver reflejado en los commits.
+   
+   <img src="https://github.com/AlvaroVillarVal/poolobject/blob/master/img/commits.png">
   
 #### ◦ ¿Tiene calidad el conjunto de pruebas disponibles?
   Las pruebas comprueban de manera satisfactoria que el codigo funciona correctamente por lo cual podemos determinar que las pruebas disponibles tienen la calidad requerida
